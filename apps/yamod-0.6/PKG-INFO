@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: yamod
+Version: 0.6
+Summary: Yet another movie database - a django app for movie data management for educational purposes
+Home-page: https://www.fh-joanneum.at/
+Author: FH JOANNEUM Gesellschaft mbH
+Author-email: karl.kreiner@fh-joanneum.at
+License: LICENSE.txt
+Description: UNKNOWN
+Platform: UNKNOWN
