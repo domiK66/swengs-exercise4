@@ -65,7 +65,7 @@ def get_or_create_role_type():
     
     
 # EXERCISE 4
-def test_and_query():
+def and_query():
     # Filter all movies where the name starts with a B
     # AND that were released after 1980
     # YOUR CODE HERE:
@@ -73,7 +73,7 @@ def test_and_query():
     # /ENDYOURCODE
     return movies_with_b_after_1980
 
-def test_or_query():
+def or_query():
     # Filter all movies that were released after 2020 OR have genre comedy
     # YOUR CODE HERE:
     from django.db.models import Q
