@@ -73,7 +73,7 @@ def test_and_query():
     # /ENDYOURCODE
     return movies_with_b_after_1980
 
-def test_or_query(self):
+def test_or_query():
     # Filter all movies that were released after 2020 OR have genre comedy
     # YOUR CODE HERE:
     from django.db.models import Q
